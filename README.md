@@ -4,6 +4,8 @@
 
 A powerful Laravel-based web application that provides instant download access to your GitHub repositories - both public and private. Built with security, usability, and performance in mind.
 
+<img width="1920" height="4216" alt="captureit_9-16-2025_at_21-27-42" src="https://github.com/user-attachments/assets/e01de529-84ef-473b-b9b9-a1fdb6a5e336" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-11.x-red.svg" alt="Laravel Version">
   <img src="https://img.shields.io/badge/PHP-8.2+-blue.svg" alt="PHP Version">
